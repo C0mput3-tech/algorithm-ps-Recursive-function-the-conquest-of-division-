@@ -1,1 +1,1 @@
-# algorithm-ps
+# algorithm-baekjoon, my algorithm
